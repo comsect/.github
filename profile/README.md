@@ -26,6 +26,7 @@ We kindly request that you review each of them before you start working on the r
 #### Social:
   - Website: https://www.comsect.in
   - LinkedIn: https://www.linkedin.com/company/comsect
+  - YouTube: https://www.youtube.com/@comsect
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
 
